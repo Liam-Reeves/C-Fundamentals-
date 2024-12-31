@@ -19,6 +19,10 @@ int main(void){
      // to display a double float use %lf 
     printf("You're are client %d\n ", Ans);
     printf("Average is %c\n", grade);
+        printf("Average is %c\n", grade);
+
+    printf("Average is %c\n", grade);
+
 
    return 0;
 }
