@@ -1,13 +1,12 @@
 #include <stdio.h>
-int main(void) {
 
-    printf("Hello, Liam , Welcome to C language \n");
-    printf("C is the mother of languages\n");
+#include <stdlib.h>
 
+int main(){
+    printf("Hello World\n");
 
-    return 0; //exit status of a program 
+    return 0;
 }
-
 // Comments 
 // single line comment
 
